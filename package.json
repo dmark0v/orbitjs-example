@@ -8,8 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "next": "9.3.0",
     "react": "16.13.0",
     "react-dom": "16.13.0"
+  },
+  "devDependencies": {
+    "@orbit/coordinator": "^0.16.5",
+    "@orbit/core": "^0.16.3",
+    "@orbit/data": "^0.16.5",
+    "@orbit/indexeddb": "^0.16.5",
+    "@orbit/jsonapi": "^0.16.5",
+    "@orbit/memory": "^0.16.5"
   }
 }
